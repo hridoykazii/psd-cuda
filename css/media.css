@@ -1,0 +1,444 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* header-start */
+#header-section{
+    background-color: #87509c !important;
+    padding: 15px 0px !important;
+}
+.menu{
+
+}
+.menu ul{
+    overflow: hidden;
+}
+.menu ul li{
+    float: left;
+}
+
+.menu ul li a{
+    
+    margin: 8px 5px 0px !important;
+    padding: 5px 0px !important;
+    text-align: center;
+    display: block;
+}
+.menu ul li:last-child a{
+    margin: 0px !important;
+    
+}
+/* header-end */
+/* hero-section-start */
+.hero{
+    padding: 35px 0px 50px 0px !important;
+}
+.hero-content h1{
+    font-size: 22px !important;
+    margin-bottom: 32px;
+}
+.hero-content button{
+    padding: 12px 55px !important;
+}
+/* hero-section-end */
+
+/* service-section-start */
+.service{
+    padding: 35px 0px 50px 0px !important;
+}
+
+.s-header h1{
+    font-size: 26px !important;
+    word-spacing: 2px;
+}
+
+.s-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+
+.s-content{
+    
+}
+.s-img{
+    width: 100%;
+    height: 125px;
+    margin: 15px 0px;
+}
+.s-c-d{
+    margin-top: 30px;
+}
+.s-c-d h2{
+    font-size: 15px !important;
+}
+.s-c-d p{
+    margin: 8px 0px 8px !important;
+}
+/* service-section-end */
+/* team-section-start */
+.team{
+    padding: 35px 0px 50px 0px !important;
+}
+
+.t-header h1{
+    font-size: 26px !important;
+    word-spacing: 2px;
+}
+
+.t-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+.t-header span {
+    margin: 10px auto;  
+}
+.t-content{
+
+}
+
+.t-c-d{
+    margin-top: 30px;
+}
+.t-c-d .team-p{
+    font-size: 13px;
+}
+.t-c-d h2{
+    font-size: 14px !important;
+}
+.t-c-d p{
+    font-size: 14px !important;
+    margin: 10px 0px !important;
+}
+
+/* team-section-end */
+/* skill-section-start */
+.skill{
+    padding: 35px 0px 50px 0px !important;
+}
+/* skill-section-end */
+/* portfolio-section-start */
+.portfo{
+    padding: 35px 0px 50px 0px !important;
+}
+
+/* portfolio-section-end */
+/* review-section-start */
+.review{
+    padding: 35px 0px 50px 0px !important;
+}
+
+.media{
+    padding: 25px 10px;
+}
+/* review-section-end */
+/* mail-section-start */
+.mail{
+    padding: 35px 0px 50px 0px !important;
+}
+/* mail-section-end */
+/* footer-section-start */
+.media {
+    padding: 25px 10px;
+    display: block !important;
+    margin: 0px auto;
+    text-align: center;
+}
+
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* header-start */
+#header-section{
+    background-color: #87509c !important;
+    padding: 18px 0px !important;
+}
+
+.menu{
+
+}
+.menu ul{
+    overflow: hidden;
+}
+.menu ul li{
+    float: left;
+}
+
+.menu ul li a{
+    
+    margin: 8px 5px 0px !important;
+    padding: 5px 0px !important;
+    text-align: center;
+    display: block;
+}
+.menu ul li:last-child a{
+    margin: 0px !important;
+    
+}
+/* header-end */
+/* hero-section-start */
+.hero{
+    padding: 40px 0px 70px 0px !important;
+}
+.hero-content h1{
+    font-size: 25px !important;
+    margin-bottom: 40px;
+}
+.hero-content button{
+    padding: 12px 55px !important;
+}
+/* hero-section-end */
+/* service-section-start */
+.service{
+    padding: 40px 0px 70px 0px !important;
+}
+
+.s-header h1{
+    font-size: 31px !important;
+    word-spacing: 5px;
+}
+
+.s-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+
+.s-content{
+    
+}
+.s-img{
+    width: 100%;
+    height: 125px;
+    margin: 15px 0px;
+}
+.s-c-d{
+    margin-top: 30px;
+}
+.s-c-d h2{
+    font-size: 16px !important;
+}
+.s-c-d p{
+    margin: 8px 0px 8px !important;
+}
+/* service-section-end */
+/* team-section-start */
+.team{
+    padding: 40px 0px 70px 0px !important;
+}
+
+.t-header h1{
+    font-size: 31px !important;
+    word-spacing: 5px;
+}
+
+.t-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+.t-header span {
+    margin: 10px auto;  
+}
+.t-content{
+
+}
+
+.t-c-d{
+    margin-top: 30px;
+}
+.t-c-d .team-p{
+    font-size: 16px;
+}
+.t-c-d h2{
+    font-size: 16px !important;
+}
+.t-c-d p{
+    font-size: 14px !important;
+    margin: 20px 0px !important;
+}
+
+/* team-section-end */
+/* skill-section-start */
+.skill{
+    padding: 40px 0px 70px 0px !important;
+}
+/* skill-section-end */
+/* portfolio-section-start */
+.portfo{
+    padding: 40px 0px 70px 0px !important;
+}
+
+/* portfolio-section-end */
+/* review-section-start */
+.review{
+    padding: 40px 0px 70px 0px !important;
+}
+
+.media{
+    padding: 25px 10px;
+}
+/* review-section-end */
+/* mail-section-start */
+.mail{
+    padding: 40px 0px 70px 0px !important;
+}
+/* mail-section-end */
+
+/* footer-section-start */
+.media {
+    padding: 25px 10px;
+    display: block !important;
+    margin: 0px auto;
+    text-align: center;
+}
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* header-start */
+#header-section{
+    background-color: #87509c !important;
+    padding: 25px 0px !important;
+}
+
+.menu{
+
+}
+.menu ul{
+    overflow: hidden;
+}
+.menu ul li{
+    float: left;
+}
+
+.menu ul li a{
+    
+    margin: 8px 5px 0px !important;
+    padding: 5px 0px !important;
+    text-align: center;
+    display: block;
+}
+.menu ul li:last-child a{
+    margin: 0px !important;
+    
+}
+/* header-end */
+/* hero-section-start */
+.hero{
+    padding: 60px 0px 90px 0px !important;
+}
+.hero-content h1{
+    font-size: 30px !important;
+    margin-bottom: 40px;
+}
+.hero-content button{
+    padding: 12px 55px !important;
+}
+/* hero-section-end */
+/* service-section-start */
+.service{
+    padding: 60px 0px 90px 0px !important;
+}
+
+.s-header h1{
+    font-size: 31px !important;
+    word-spacing: 5px;
+}
+
+.s-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+
+.s-content{
+    
+}
+.s-img{
+    width: 100%;
+    height: 125px;
+    margin: 15px 0px;
+}
+.s-c-d{
+    margin-top: 30px;
+}
+.s-c-d h2{
+    font-size: 16px !important;
+}
+.s-c-d p{
+    margin: 8px 0px 8px !important;
+}
+/* service-section-end */
+
+/* team-section-start */
+.team{
+    padding: 60px 0px 90px 0px !important;
+}
+
+.t-header h1{
+    font-size: 31px !important;
+    word-spacing: 5px;
+}
+
+.t-header p{
+    width: 100%;
+    word-spacing: 2.5px;
+    margin: 0px auto 20px auto;
+}
+.t-header span {
+    margin: 10px auto;  
+}
+.t-c-d{
+    margin-top: 30px;
+}
+.t-c-d .team-p{
+    font-size: 16px;
+}
+.t-c-d h2{
+    font-size: 16px !important;
+}
+.t-c-d p{
+    font-size: 14px !important;
+    margin: 20px 0px !important;
+}
+
+
+/* team-section-end */
+/* skill-section-start */
+.skill{
+    padding: 60px 0px 90px 0px !important;
+}
+/* skill-section-end */
+/* portfolio-section-start */
+.portfo{
+    padding: 60px 0px 90px 0px !important;
+}
+
+/* portfolio-section-end */
+
+/* review-section-start */
+.review{
+    padding: 60px 0px 90px 0px !important;
+}
+
+.media{
+    padding: 25px 10px;
+}
+/* review-section-end */
+/* mail-section-start */
+.mail{
+    padding: 60px 0px 90px 0px !important;
+}
+/* mail-section-end */
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    
+ }
